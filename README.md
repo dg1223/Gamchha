@@ -6,6 +6,8 @@
 
 Deployment of a complete CI/CD pipeline for a React Native app using GitHub Actions.
 
+### [Deployed App - LIVE](https://play.google.com/store/apps/details?id=com.dg1223.gamchha)
+
 ## Objective
 
 Deploy app through the following Google Play Store release pipeline:
