@@ -1,10 +1,10 @@
 [![Dev CI/CD](https://github.com/dg1223/Gamchha/actions/workflows/develop-cicd.yml/badge.svg)](https://github.com/dg1223/Gamchha/actions/workflows/develop-cicd.yml)&nbsp;
 [![Staging CI/CD](https://github.com/dg1223/Gamchha/actions/workflows/staging-cicd.yml/badge.svg)](https://github.com/dg1223/Gamchha/actions/workflows/staging-cicd.yml)&nbsp;
-[![Production CI/CD](https://github.com/dg1223/Gamchha/actions/workflows/production-cicd.yml/badge.svg)](https://github.com/dg1223/Gamchha/actions/workflows/production-cicd.yml)
+[![Production CI/CD](https://github.com/dg1223/Gamchha/actions/workflows/production-cicd.yml/badge.svg)](https://github.com/dg1223/Gamchha/actions/workflows/production-cicd.yml)&nbsp;
+![](https://img.shields.io/github/issues-pr-closed/dg1223/ci-cd-pipeline-play-store-deployment)&nbsp;
+![](https://img.shields.io/github/created-at/dg1223/ci-cd-pipeline-play-store-deployment)
 
-# The Gamchha App
-
-A dummy React Native app to implement a complete CI/CD pipeline using GitHub Actions.
+Deployment of a complete CI/CD pipeline for a React Native app using GitHub Actions.
 
 ## Objective
 

@@ -46,9 +46,9 @@ function App(): JSX.Element {
                 color: isDarkMode ? Colors.white : Colors.black,
               },
             ]}>
-            <Text style={styles.sectionTitle}>Be the best&nbsp;</Text>
-            <Text style={styles.highlight}>Gamchha&nbsp;{'\n'}</Text>
-            <Text style={styles.sectionTitle}>that you can ever be...</Text>
+            <Text style={styles.sectionTitle}>Use&nbsp;</Text>
+            <Text style={styles.highlight}>AYCT&nbsp;{'\n'}</Text>
+            <Text style={styles.sectionTitle}>for your daily needs.</Text>
           </Text>
         </View>
       </ScrollView>
