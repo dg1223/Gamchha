@@ -146,7 +146,7 @@ jobs:
           name: Signed App Bundle
           path: ${{steps.sign_app.outputs.signedReleaseFile}}
 
-      - name: Deploy to Play Store (Alpha)
+      - name: Deploy to Play Store (Production)
         uses: r0adkll/upload-google-play@v1
         with:
           serviceAccountJsonPlainText: ${{ secrets.ANDROID_SERVICE_ACCOUNT }}
